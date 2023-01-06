@@ -2,7 +2,7 @@
 
 - 🔭  I'm currently working as a Technical Lead - Machine Learning at Cisco, where I'm researching Computer Vision, 3D perception, and scene understanding.
 - 💼  My past experience includes work in wakeword detection, speaker recognition, and machine learning applications in signal processing. I'm proficient in a variety of automatic differentiation libraries including [Theano](http://deeplearning.net/software/theano/), [Caffe](http://caffe.berkeleyvision.org/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/).
-- 📚  I have published papers on Smart Voice Activity Detection and Posture Identification of Musicians, and have a patent for generating and training new wake words.
+- 📚  I have published papers on Smart Voice Activity Detection and Posture Identification of Musicians, and have a [patent for generating and training new wake words](https://patents.google.com/patent/US9282285).
 - 🤔  I'm looking for help with **Autonomous Vehicles** and **Reinforcement Learning**.
 - 💬  Ask me about my background in music performance and computer science, or my work in handling sensitive data and understanding **differential privacy** and **federated learning**.
 - 😄  Pronouns: he/him
