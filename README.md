@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-
-- 🔭  I’m currently working on **Text to Speech and image generation**
-- 🌱  I’m currently learning **Differential Privacy**
-- 👯  I’m looking to collaborate on **Differential Privacy**
-- 🤔  I’m looking for help with **Autonomous Vehicles and Reinforcement Learning**
-- 💬  Ask me about *...anything...?*
+- 🔭  I'm currently working as a Technical Lead - Machine Learning at Cisco, where I'm researching Computer Vision, 3D perception, and scene understanding.
+- 💼  My past experience includes work in wakeword detection, speaker recognition, and machine learning applications in signal processing. I'm proficient in a variety of automatic differentiation libraries including [Theano](http://deeplearning.net/software/theano/), [Caffe](http://caffe.berkeleyvision.org/), [TensorFlow](https://www.tensorflow.org/), and [PyTorch](https://pytorch.org/).
+- 📚  I have published papers on Smart Voice Activity Detection and Posture Identification of Musicians, and have a patent for generating and training new wake words.
+- 🤔  I'm looking for help with **Autonomous Vehicles** and **Reinforcement Learning**.
+- 💬  Ask me about my background in music performance and computer science, or my work in handling sensitive data and understanding **differential privacy** and **federated learning**.
 - 😄  Pronouns: he/him
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dariocazzani)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dariocazzani/)
-
-<br />
+- 💻  LinkedIn: www.linkedin.com/in/dariocazzani
+- 🐦  Twitter: www.twitter.com/dariocazzani
 
 <!--
 ### Languages and Tools:
