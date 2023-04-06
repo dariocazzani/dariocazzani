@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+</head>
+<body>
+  <header>
+    <h1>{{ site.data.bio.name }}</h1>
+    <p>{{ site.data.bio.title }} | {{ site.data.bio.location }}</p>
+    <p>Email: <a href="mailto:{{ site.data.bio.email }}">{{ site.data.bio.email }}</a></p>
+    <p>GitHub: <a href="https://github.com/{{ site.data.bio.github }}" target="_blank">{{ site.data.bio.github }}</a></p>
+  </header>
+
+  <nav>
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/rust/">Rust</a>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+</html>
